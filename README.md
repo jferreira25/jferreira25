@@ -19,6 +19,6 @@
   <a href = "mailto:junior.ferreira@simberg.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/junior-ferreira-971a9873/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/jferreira25/jferreira/blob/main/snack-bar.svg)
+  ![Snake animation](https://github.com/jferreira25/jferreira25/blob/main/snack-bar.svg)
  
 </div>
